@@ -1,4 +1,4 @@
-#### Hi, I'm Marco! 👋
+# Hi, I'm Marco! 👋
 
 I'm a [Cybernetic Engineering](https://guidastudente.unipa.it/2022/corsi_di_laurea/ingegneria-cibernetica-l-pa/) student at the University of Palermo with a deep passion for technology and computer science. My journey in tech is driven by curiosity and a desire to solve problems through innovative solutions.
 
